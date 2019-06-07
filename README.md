@@ -1,8 +1,8 @@
 # network_tests
 
-A new Flutter project.
+Flutter project which shows how to implement a custom Network Layer.
 
-<img src="https://github.com/SergisMund0/assets/blob/master/call.png" width="400" height="700"><img src="https://github.com/SergisMund0/assets/blob/master/empty_call.png" width="400" height="700">
+<img src="https://github.com/SergisMund0/assets/blob/master/empty_call.png" width="400" height="700"><img src="https://github.com/SergisMund0/assets/blob/master/call.png" width="400" height="700">
 
 ## Getting Started
 
