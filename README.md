@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/SergisMund0/assets/blob/master/call.png" width="400" height="700"><img src="https://github.com/SergisMund0/assets/blob/master/empty_call.png" width="400" height="700">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
