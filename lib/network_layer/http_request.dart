@@ -58,6 +58,10 @@ class HttpRequest extends Request {
 
   @override
   Uint8List get bodyBytes {
+    if (service.parameters == null) {
+      return new Uint8List(0);
+    }
+    
     if (service.contentEncoding == ContentEncoding.url) {
       final queryParameters = Uri(queryParameters: service.parameters);
       List<int> bodyBytes = utf8.encode(queryParameters.query);
